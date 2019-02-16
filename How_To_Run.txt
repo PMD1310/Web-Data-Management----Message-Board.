@@ -1,0 +1,4 @@
+Username: pramod
+Password: pmd
+
+After entering these credentials, we will be redirected to the 'board.php' page.
